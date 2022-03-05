@@ -232,6 +232,7 @@ h4 {
         rgba(0, 0, 0, 0) 69.61%
     ),
     linear-gradient(24.5deg, rgba(0, 0, 0, 0.2) 4.71%, rgba(0, 0, 0, 0) 71.49%);
+    background: url('../img/logos.png') no-repeat center center / cover;
 }
 
 .categories .cover-text {
@@ -356,7 +357,8 @@ h4 {
 .social-icons img {
     width: 25px;
     height: 25px;
-    margin-right:25px;
+    margin:10px 25px 0px 0px;
+    
 }
 
 /* Modal */
